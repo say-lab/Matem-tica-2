@@ -1,0 +1,11 @@
+TAG DO HTML
+<a>: Define um hiperlink.
+<img>: Insere uma imagem. 
+<form>: Define um formulário.
+<input>: Define um campo de entrada de dados.
+<button>: Define um botão.
+<textarea>: Define uma área de texto. 
+<table>: Define uma tabela.
+<tr>: Define uma linha na tabela.
+<th>: Define um cabeçalho de coluna na tabela.
+<td>: Define uma célula de dados na tabela. 
